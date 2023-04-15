@@ -1,3 +1,3 @@
 # Database-of-infected
 This program is inspired by my passion for post-apo themes. This is a console program written in c# language.
-The program uses the System.IO library. Dzięki niemu możemy zapisać dane do pliku, odczytać je, wyszukać, usunąć, skopiować cały plik lub też usunąć bazę danych.
+The program uses the System.IO library. It allows us to write data to a file, read it, search for it, delete it, copy the entire file or delete the database.
