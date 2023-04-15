@@ -1,0 +1,6 @@
+Pater Paweł PESEL: 00053098678 STAN: Chory
+Smigaj Jan PESEL: 67121609745 STAN: Podejrzany
+Gawlik Marcin PESEL: 89070545678 STAN: Zdrowy
+Hilman Jarosław PESEL: 90083105634 STAN: Chory
+Bisa Piotr PESEL: 99080456789 STAN: Podejrzany
+Pamer Dariusz PESEL:89052301456 STAN: Zdrowy

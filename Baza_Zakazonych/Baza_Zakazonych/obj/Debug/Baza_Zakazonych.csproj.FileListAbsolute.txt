@@ -1,0 +1,7 @@
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\bin\Debug\Baza_Zakazonych.exe.config
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\bin\Debug\Baza_Zakazonych.exe
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\bin\Debug\Baza_Zakazonych.pdb
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\obj\Debug\Baza_Zakazonych.csproj.AssemblyReference.cache
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\obj\Debug\Baza_Zakazonych.csproj.CoreCompileInputs.cache
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\obj\Debug\Baza_Zakazonych.exe
+C:\Users\hderb\Documents\Visual_Projekty\Baza_Zakazonych\Baza_Zakazonych\obj\Debug\Baza_Zakazonych.pdb
